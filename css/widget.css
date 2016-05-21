@@ -1,0 +1,12 @@
+.owl-carousel .owl-item {
+	border: solid 2px red;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.owl-carousel .owl-item .item-image {
+	margin-bottom: 20px;
+}
+.owl-carousel .owl-item .item-image  img {
+	transform-style: inherit;
+}
