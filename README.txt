@@ -1,4 +1,4 @@
-=== Vimm Post Carousel ===
+=== Owl Post Carousel ===
 
 Contributors: Justin McGuire
 Tags: widget, wordpress, post carousel
@@ -18,7 +18,7 @@ A simple plugin that pulls posts and creates a carousel of thise posts.
 
 == Installation ==
 
-1. Upload `vimm-post-carousel` to the `/wp-content/plugins/` directory
+1. Upload `owl-post-carousel` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
