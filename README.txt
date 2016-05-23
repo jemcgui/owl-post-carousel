@@ -8,12 +8,12 @@ Stable tag: 4.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple plugin that pulls posts and creates a carousel of thise posts.
+A simple plugin that pulls posts and creates a carousel of those posts.
 
 
 == Description ==
 
-A simple plugin that pulls posts and creates a carousel of thise posts.
+A simple plugin that pulls posts and creates a carousel of those posts.
 
 
 == Installation ==
