@@ -1,7 +1,7 @@
 <?php
 /**
  * @package   Owl_Post_Carousel
- * @author    Justin McGuire <mcguirejust@gmail.com>
+ * @author    Justin McGuire <mcguirejus@gmail.com>
  * @license   GPL-2.0+
  * @link      http://
  * @copyright 2016 Justin McGuire
